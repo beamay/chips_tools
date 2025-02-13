@@ -1,6 +1,8 @@
 import test_data
 import json
 
+from test_data import GameLibrary
+
 #Creates and returns a GameLibrary object(defined in test_data) from loaded json_data
 def make_game_library_from_json( json_data ):
     #Initialize a new GameLibrary

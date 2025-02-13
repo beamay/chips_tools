@@ -1,0 +1,32 @@
+{
+    "game1": [
+        {
+            "title": "Chip’s Challenge",
+            "platform": {
+                "launch_year": 1989,
+                "name": "Atari Lynx"
+            },
+            "year": 1989
+        }
+    ],
+    "game2": [
+        {
+            "title": "Chip’s Challenge 2",
+            "platform": {
+                "launch_year": 2003,
+                "name": "Steam"
+            },
+            "year": 2015
+        }
+    ],
+     "game3": [
+        {
+            "title": "Subnautica",
+            "platform": {
+                "launch_year": 2014,
+                "name": "Windows"
+            },
+            "year": 2018
+        }
+    ]
+}
