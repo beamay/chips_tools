@@ -1,5 +1,5 @@
 {
-    "game1": [
+    "game1":
         {
             "title": "Chip’s Challenge",
             "platform": {
@@ -8,8 +8,8 @@
             },
             "year": 1989
         }
-    ],
-    "game2": [
+    ,
+    "game2":
         {
             "title": "Chip’s Challenge 2",
             "platform": {
@@ -18,8 +18,8 @@
             },
             "year": 2015
         }
-    ],
-     "game3": [
+    ,
+     "game3":
         {
             "title": "Subnautica",
             "platform": {
@@ -28,5 +28,5 @@
             },
             "year": 2018
         }
-    ]
+
 }
