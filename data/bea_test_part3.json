@@ -1,0 +1,8 @@
+{"level_pack": "bea's levels",
+  "levels": [
+    {"level_name": "the brook", "level_number": 1},
+    {"level_name": "the river", "level_number": 2},
+    {"level_name": "the lake", "level_number": 3},
+    {"level_name": "the estuary", "level_number": 4}
+  ]
+}
